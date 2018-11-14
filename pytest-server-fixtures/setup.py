@@ -27,6 +27,7 @@ install_requires = ['pytest',
                     'six',
                     'future',
                     'requests',
+                    'kubernetes',
                     ]
 
 extras_require = {
